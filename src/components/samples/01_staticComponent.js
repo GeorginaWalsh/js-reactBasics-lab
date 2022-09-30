@@ -12,6 +12,10 @@ const Demo = () => {
         <li>Ruby</li>
         <li>PHP</li>
       </ul>
+      <ul>
+        <li>Erlang</li>
+        <li>Clojure</li>
+      </ul>  
     </div>
   );
 };
