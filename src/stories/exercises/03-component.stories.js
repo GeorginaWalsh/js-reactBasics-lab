@@ -11,7 +11,7 @@ export const Basic = () => {
   const twoModules = [
     {
       name: "DevOps",
-      noLectures: 1,
+      noLectures: 2,
       noPracticals: 2,
     },
     {
